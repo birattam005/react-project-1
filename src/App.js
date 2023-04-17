@@ -9,6 +9,7 @@ import {
 
 import "./styles/App.scss"
 import "./styles/colors.scss"
+import "./styles/Header.scss"
 
 const App = () => {
   return (
