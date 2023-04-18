@@ -18,6 +18,13 @@ const Home = () => {
           </p>
         </div>
     </div>
+
+    <div className="home3">
+        <div>
+            <h1>Who we are?</h1>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur obcaecati distinctio in id, corrupti architecto illo illum ad necessitatibus sed amet sunt harum eum repellendus quasi earum reprehenderit similique impedit? Nulla culpa minus esse incidunt ducimus hic maiores voluptatibus, dolorem reiciendis tempora libero sunt impedit sequi unde cumque earum praesentium!</p>
+        </div>
+    </div>
     </>
   )
 }
