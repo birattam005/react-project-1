@@ -20,14 +20,14 @@ const Home = () => {
         </div>
     </div>
 
-    <div className="home3">
+    <div className="home3" id='about'>
         <div>
             <h1>Who we are?</h1>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur obcaecati distinctio in id, corrupti architecto illo illum ad necessitatibus sed amet sunt harum eum repellendus quasi earum reprehenderit similique impedit? Nulla culpa minus esse incidunt ducimus hic maiores voluptatibus, dolorem reiciendis tempora libero sunt impedit sequi unde cumque earum praesentium!</p>
         </div>
     </div>
 
-    <div className="home4">
+    <div className="home4" id='brands'>
         <div>
           <h1>Brands</h1>
           <article>
