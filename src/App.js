@@ -2,6 +2,7 @@ import React from 'react'
 import Header from './MyComponets/Header';
 import Home from './MyComponets/Home';
 import Footer from './MyComponets/Footer';
+import Contact from './MyComponets/Contact';
 
 import {
   BrowserRouter as Router,
@@ -15,6 +16,7 @@ import "./styles/colors.scss"
 import "./styles/Header.scss"
 import "./styles/home.scss"
 import "./styles/footer.scss"
+import "./styles/contact.scss"
 
 
 const App = () => {
@@ -23,6 +25,7 @@ const App = () => {
       <Header />
       <Routes>
         <Route path="/" element={<Home />}/>
+        <Route path="/contact" element={<Contact />}/>
       </Routes>
       <Footer />
     </Router>
